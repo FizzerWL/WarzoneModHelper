@@ -1,7 +1,8 @@
 {
   "name": "warzonemodhelper",
-  "displayName": "WarzoneModHelper",
-  "description": "",
+  "displayName": "Warzone Mod Helper",
+  "publisher": "Warzone.com",
+  "description": "Upload Warzone mods directly from your editor!",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"
